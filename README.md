@@ -10,7 +10,9 @@
         rgba(126,213,111,0.8),rgba(40,180,131,0.8))
 
         linear grandiente é a função em css para aplicar o gridente ,
-        onde você passa as cores em rgba e o nivel de opacidade é opcional               rgba(126,213,111,0.8), rgba(40,180,131,0.8) de verde claro para verde            escuro com opacidade de 80%
+        onde você passa as cores em rgba e o nivel de opacidade é opcional
+        rgba(126,213,111,0.8), rgba(40,180,131,0.8) de verde claro para verde
+        escuro com opacidade de 80%
 
     image que fica em baixo do gradiente url(../img/hero.jpg);
 
